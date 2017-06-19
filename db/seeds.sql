@@ -1,3 +1,3 @@
-INSERT INTO burgers (burger_name,devoured) VALUES ("The Texan",false)
-INSERT INTO burgers (burger_name,devoured) VALUES ("BBQ",false);
-INSERT INTO burgers (burger_name,devoured) VALUES ("Buffalo",false);
+INSERT INTO burgers (burger_name) VALUES ("The Texan")
+INSERT INTO burgers (burger_name) VALUES ("BBQ");
+INSERT INTO burgers (burger_name) VALUES ("Buffalo");
