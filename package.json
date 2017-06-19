@@ -1,7 +1,6 @@
 {
   "name": "burger",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {},
   "devDependencies": {},
@@ -18,5 +17,6 @@
   "bugs": {
     "url": "https://github.com/Msingh91/burger/issues"
   },
-  "homepage": "https://github.com/Msingh91/burger#readme"
+  "homepage": "https://github.com/Msingh91/burger#readme",
+  "description": ""
 }
