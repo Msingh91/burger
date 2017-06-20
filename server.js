@@ -25,7 +25,7 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 // app.use(express.static("app/public"));
 
 // Serve static content for the app from the "public" directory in the application directory.
-app.use(express.static(process.cwd() + "/public"));
+app.use(express.static(__dirname + "/public"));
 
 
 // Override with POST having ?_method=DELETE
